@@ -149,6 +149,8 @@ body {
   font-size: 36px;
   font-weight: 700;
   color: #12121a;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 .sub-text {
@@ -160,7 +162,7 @@ body {
 
 /* speakers section */
 .speaker {
-  padding: 80px 20px;
+  padding: 40px 20px 80px;
   max-width: 1200px;
   margin: 0 auto;
 }
