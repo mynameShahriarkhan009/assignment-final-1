@@ -320,3 +320,62 @@ body {
   background-color: #1d4ed8;
   color: #fff;
 }
+
+/* footer */
+.footer {
+  background-color: #0b132b;
+  color: #ffffff;
+  padding: 60px 20px 30px;
+}
+
+.footer-box {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.foot-logo {
+  display: flex;
+  align-items: center;
+}
+
+.foot-logo .logo-img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+.social {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.social a {
+  color: #94a3b8;
+  font-size: 20px;
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.line {
+  border: 0;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 30px 0;
+}
+
+.footer-bottom {
+  text-align: center;
+}
+
+.copy {
+  font-size: 14px;
+  color: #94a3b8;
+  margin: 0;
+}
